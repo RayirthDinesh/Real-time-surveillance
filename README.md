@@ -55,9 +55,6 @@ Evaluated on a held-out stratified test split (15% of dataset).
 | violence | 0.8586 | 0.9111 | 0.8841 |
 | property_damage | 0.8703 | 0.9244 | 0.8966 |
 
-> *Replace with your `classification_report` output after training.*
-
----
 
 ## Applications
 
