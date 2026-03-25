@@ -50,10 +50,10 @@ Evaluated on a held-out stratified test split (15% of dataset).
 
 | Class | Precision | Recall | F1 |
 |---|---|---|---|
-| normal | — | — | — |
-| theft | — | — | — |
-| violence | — | — | — |
-| property_damage | — | — | — |
+| normal | 0.9495 | 0.8710 | 0.9086 |
+| theft | 0.8350 | 0.8750 | 0.8545 |
+| violence | 0.8586 | 0.9111 | 0.8841 |
+| property_damage | 0.8703 | 0.9244 | 0.8966 |
 
 > *Replace with your `classification_report` output after training.*
 
