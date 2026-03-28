@@ -6,6 +6,8 @@ A deep learning system that watches surveillance footage and automatically flags
 
 ## What It Does
 
+https://github.com/user-attachments/assets/05728f18-76f9-41db-9522-7c1bf61501a8
+
 Most CCTV systems record everything but catch nothing until a human reviews the footage after the fact. This project flips that — a model watches the stream live, classifies what's happening every few frames, and overlays the result directly on the video.
 
 **Four output classes:**
