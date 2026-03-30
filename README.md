@@ -52,10 +52,12 @@ Evaluated on a held-out stratified test split (15% of dataset).
 
 | Class | Precision | Recall | F1 |
 |---|---|---|---|
-| normal | 0.9495 | 0.8710 | 0.9086 |
-| theft | 0.8350 | 0.8750 | 0.8545 |
-| violence | 0.8586 | 0.9111 | 0.8841 |
-| property_damage | 0.8703 | 0.9244 | 0.8966 |
+| normal | 0.9518 | 0.9130 | 0.9320 |
+| theft | 0.8955 | 0.9104 | 0.9029 |
+| violence | 0.8530 | 0.9028 | 0.8772 |
+| property_damage | 0.8889 | 0.8889 | 0.8889 |
+
+Test Accuracy : 90.72%
 
 
 ## Applications
